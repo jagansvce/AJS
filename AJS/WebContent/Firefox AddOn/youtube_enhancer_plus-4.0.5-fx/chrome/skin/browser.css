@@ -1,0 +1,34 @@
+/* Toolbar Button
+ * https://developer.mozilla.org/en-US/Firefox/Australis_add-on_compat
+======================================================================*/
+#youtube-enhancer-plus-button {
+    list-style-image: url('chrome://youtubeenhancerplus/skin/button-16.png');
+}
+#youtube-enhancer-plus-button[cui-areatype="menu-panel"],
+toolbarpaletteitem[place="palette"] > #youtube-enhancer-plus-button {
+	list-style-image: url('chrome://youtubeenhancerplus/skin/menu-panel-button-32.png');
+}
+/* High-resolution Displays
+===================================*/
+@media (min-resolution: 2dppx) {
+    #youtube-enhancer-plus-button {
+    	list-style-image: url('chrome://youtubeenhancerplus/skin/button-32.png');
+	}
+	#youtube-enhancer-plus-button[cui-areatype="menu-panel"],
+	toolbarpaletteitem[place="palette"] > #youtube-enhancer-plus-button {
+		list-style-image: url('chrome://youtubeenhancerplus/skin/menu-panel-button-64.png');
+	}
+}
+/* Sidebar
+===================================*/
+#sidebar {
+	max-width: none !important;
+}
+#youtube-enhancer-plus-sidebar {
+	background-color: #fff;
+	width: 450px;
+}
+#youtube-enhancer-plus-spinner,
+#youtube-enhancer-plus-iframe {
+	min-height: 600px;
+}

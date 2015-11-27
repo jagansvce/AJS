@@ -1,0 +1,45 @@
+© 2015 MRFDev.com - All Rights Reserved.
+
+By downloading, installing, or otherwise using YouTube™ Enhancer Plus, you acknowledge and agree to be bound by this license.
+If you do not agree to the terms of this license, then do not download, do not install, and do not use YouTube™ Enhancer Plus.
+
+1. Definitions.
+
+	1.1. "License" means this document.
+	1.2. "The Developer" means the individual (Maxime RF) who has created YouTube™ Enhancer Plus and who has full rights on it.
+	1.3. "Source Code" means all the files that compose YouTube™ Enhancer Plus.
+	1.4. "AMO Services" means the addons.mozilla.org website or any of its subdomains.
+	1.5. "AMO Contributions" means add-ons, Firefox "Persona" designs or any other information or material available by means of the services provided by Mozilla.
+	1.6. "Authorized Persons" means people who have been granted rights by The Developer.
+
+2. Distribution and Use.
+
+	2.1. The Developer grants users the right to use YouTube™ Enhancer Plus with any of the compatible applications or services provided by Mozilla.
+
+	2.2. The Developer grants to Mozilla and its affiliates a non-exclusive, worldwide, royalty-free, sublicensable license to distribute, transmit, publish, publicly and privately perform and display and otherwise use YouTube™ Enhancer Plus, including any updates, solely in connection with Mozilla’s provision of the AMO Services. Mozilla and its affiliates may also (i) bundle and/or package, and permit users to bundle and/or package YouTube™ Enhancer Plus with third party AMO Contributions for delivery and promotion of the AMO Contributions to users; (ii) maintain and/or update YouTube™ Enhancer Plus for the purpose of providing compatibility with current and new versions of Firefox or other Mozilla software that YouTube™ Enhancer Plus interoperates with if The Developer is unable to respond to Mozilla's requests asking him to make changes and (iii) include The Developer's name, and/or the YouTube™ Enhancer Plus logo and title in menus and other categories relating to the selection of AMO Contributions.
+
+3. Source Code License.
+
+	3.1. The Source Code is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. Except where otherwise noted, and except Authorized Persons, nobody (i) has the right to reproduce, copy, duplicate, or use any part of the Source Code without The Developer's consent, neither "as-is" nor modified; (ii) has the right to distribute or in any way expose the Source Code over the web without The Developer's consent. All rights not expressly granted to you are retained by The Developer.
+
+	3.2. In the event of any violation of these terms, legal action will be taken against anyone involved in the copyright infringement.
+
+4. Disclaimer of Warranties.
+
+	4.1. YouTube™ Enhancer Plus is provided "as-is". The Developer disclaims all warranties, whether express or implied, including without limitation, implied warranties of merchantability, fitness for a particular purpose and non-infringement. The entire risk arising out of installing YouTube™ Enhancer Plus without using AMO Services remains with you.
+
+5. Limitation of Liability.
+
+	5.1. In no event shall The Developer be liable to you or any other party for any direct, indirect, special, consequential or exemplary damages, including without limitation any lost profits, business interruption, or loss of data, regardless of the basis or nature of the claim, resulting from any use of YouTube™ Enhancer Plus, or the failure to provide support services, even if The Developer was expressly advised of the possibility of such damages.
+
+6. Indemnification.
+
+	6.1. If anyone brings a claim against The Developer related to your use of YouTube™ Enhancer Plus, you will indemnify and hold The Developer harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.
+
+7. Changes.
+
+	7.1. This license may be updated without notice. You are bound by any such updates or changes, and so should periodically review these terms from time to time.
+
+8. Termination.
+
+	8.1. You may terminate your use of YouTube™ Enhancer Plus at any time by uninstalling it. The Developer may modify or discontinue YouTube™ Enhancer Plus at its sole discretion.

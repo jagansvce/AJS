@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/"?>
+<?xml-stylesheet type="text/css" href="chrome://browser/skin/browser.css"?>
+<?xml-stylesheet type="text/css" href="chrome://youtubeenhancerplus/skin/browser.css"?>
+<!DOCTYPE page SYSTEM "chrome://youtubeenhancerplus/locale/sidebar.dtd">
+
+<page id="youtube-enhancer-plus-sidebar" title="&youtubeenhancerplus.title;" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<stringbundleset>
+		<stringbundle id="youtube-enhancer-plus-sidebar-strings" src="chrome://youtubeenhancerplus/locale/strings.properties"/>
+	</stringbundleset>
+	<vbox>
+		<iframe type="content" id="youtube-enhancer-plus-spinner" src="chrome://youtubeenhancerplus/content/spinner.html"/>
+		<iframe type="content" id="youtube-enhancer-plus-iframe" hidden="true"/>
+		<iframe type="content" id="youtube-enhancer-plus-youtube-search-iframe" hidden="true"/>
+		<iframe type="content" id="youtube-enhancer-plus-youtube-download-iframe" hidden="true"/>
+	</vbox>
+	<script type="application/x-javascript" src="chrome://youtubeenhancerplus/content/youtube-playlists.js"/>
+	<script type="application/x-javascript" src="chrome://youtubeenhancerplus/content/sidebar.js"/>
+</page>

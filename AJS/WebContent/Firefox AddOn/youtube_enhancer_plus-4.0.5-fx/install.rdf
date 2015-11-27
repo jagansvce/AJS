@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+<Description about="urn:mozilla:install-manifest">
+	<!-- https://developer.mozilla.org/en-US/Add-ons/Install_Manifests -->
+	<em:type>2</em:type>
+	<em:version>4.0.5</em:version>
+	<em:id>firefoxaddon@youtubeenhancer.com</em:id>
+	<em:iconURL>chrome://youtubeenhancerplus/skin/icon.png</em:iconURL>
+	<em:optionsURL>https://www.mrfdev.com/youtube-enhancer-plus-options?hl=en</em:optionsURL>
+	<em:optionsType>3</em:optionsType>
+	<em:multiprocessCompatible>true</em:multiprocessCompatible>
+	<em:unpack>true</em:unpack>
+
+	<em:targetApplication>
+		<Description>
+			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+			<em:minVersion>29.0</em:minVersion>
+			<em:maxVersion>44.*</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+
+	<em:name>YouTube™ Enhancer Plus</em:name>
+	<em:description>Make YouTube™ better! Ad Blocker, Autoplay Manager, Auto HD, Auto Replay, Cinema Mode, and more.</em:description>
+	<em:creator>Maxime RF</em:creator>
+	<em:homepageURL>https://www.mrfdev.com</em:homepageURL>
+
+	<em:localized>
+		<Description>
+			<em:locale>en</em:locale>
+			<em:name>YouTube™ Enhancer Plus</em:name>
+			<em:description>Make YouTube™ better! Ad Blocker, Autoplay Manager, Auto HD, Auto Replay, Cinema Mode, and more.</em:description>
+		</Description>
+		<Description>
+			<em:locale>fr</em:locale>
+			<em:name>YouTube™ Enhancer Plus</em:name>
+			<em:description>Améliorez votre expérience YouTube™ ! Bloqueur de publicité, gestionnaire de lecture automatique, auto HD, lecture en boucle, mode cinéma, et bien plus encore.</em:description>
+		</Description>
+		<Description>
+			<em:locale>id</em:locale>
+			<em:name>YouTube™ Enhancer Plus</em:name>
+			<em:description>Buat YouTube™ lebih baik! Pemblokir iklan, pengatur pemutaran otomatis, HD otomatis, pengulangan otomatis, mode sinema, dan lebih.</em:description>
+		</Description>
+		<Description>
+			<em:locale>it</em:locale>
+			<em:name>YouTube™ Enhancer Plus</em:name>
+			<em:description>Potenzia YouTube™ e miglioralo! Blocca la pubblicità, imposta la riproduzione automatica, riproduci i video automaticamente in HD, imposta il replay automatico, sfrutta la modalità Cinema e molto altro.</em:description>
+		</Description>
+		<Description>
+			<em:locale>pl</em:locale>
+			<em:name>YouTube™ Enhancer Plus</em:name>
+			<em:description>Ulepsz YouTube™! Usuwanie reklam, menedżer autoodtwarzania, auto HD, auto powtarzanie, tryb kinowy, i więcej.</em:description>
+		</Description>
+    </em:localized>
+</Description>
+</RDF>

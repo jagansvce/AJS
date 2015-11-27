@@ -1,0 +1,10 @@
+overlay  chrome://browser/content/browser.xul	chrome://youtubeenhancerplus/content/overlay.xul
+style    chrome://global/content/customizeToolbar.xul	chrome://youtubeenhancerplus/skin/browser.css
+content  youtubeenhancerplus	chrome/content/
+resource youtubeenhancerplus	chrome/resources/
+skin     youtubeenhancerplus	classic/1.0	chrome/skin/
+locale   youtubeenhancerplus	en	chrome/locale/en/
+locale	 youtubeenhancerplus	fr	chrome/locale/fr/
+locale	 youtubeenhancerplus	id	chrome/locale/id/
+locale	 youtubeenhancerplus	it	chrome/locale/it/
+locale	 youtubeenhancerplus	pl	chrome/locale/pl/

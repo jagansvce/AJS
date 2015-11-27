@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="chrome://youtubeenhancerplus/skin/browser.css"?>
+<!DOCTYPE overlay SYSTEM "chrome://youtubeenhancerplus/locale/overlay.dtd">
+
+<overlay id="youtube-enhancer-plus-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<window id="main-window">
+		<stringbundleset>
+			<stringbundle id="youtube-enhancer-plus-strings" src="chrome://youtubeenhancerplus/locale/strings.properties"/>
+		</stringbundleset>
+		<script type="application/x-javascript" src="chrome://youtubeenhancerplus/content/overlay.js" />
+	</window>
+	<menupopup id="viewSidebarMenu">
+		<menuitem key="keyYouTubeEnhancerPlusSidebar" observes="viewYouTubeEnhancerPlusSidebar"/>
+	</menupopup>
+	<keyset id="mainKeyset">
+		<key id="keyYouTubeEnhancerPlusSidebar" command="viewYouTubeEnhancerPlusSidebar" key="Y" modifiers="control shift"/>
+	</keyset>
+	<broadcasterset id="mainBroadcasterSet">
+		<broadcaster
+			autoCheck="false"
+			group="sidebar"
+			id="viewYouTubeEnhancerPlusSidebar"
+			label="&youtubeenhancerplus.label;"
+			oncommand="YouTubeEnhancerPlus.i(false)"
+			sidebartitle=" "
+			sidebarurl="chrome://youtubeenhancerplus/content/sidebar.xul"
+			type="checkbox"/>
+	</broadcasterset>
+</overlay>

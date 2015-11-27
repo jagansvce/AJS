@@ -1,0 +1,20 @@
+/*
+##
+##	YouTube Enhancer Plus | Firefox Add-on
+##	======================================
+##
+##	Author: Maxime RF <https://mrfdev.com>
+##
+##	This file is protected by copyright laws and international copyright
+##	treaties, as well as other intellectual property laws and treaties.
+##
+##	All rights not expressly granted to you are retained by the author.
+##	Read the license.txt file for more details.
+##
+##	If it's not enough clear for you Baris, you have no rights to use my work,
+##	neither as-is nor modified! Improve your coding logic instead of using others work!
+##
+##	© MRFDev.com - All Rights Reserved
+##
+*/
+.btn-sm-spinner{display:none;margin-left:3px}.btn.active .btn-sm-spinner,.btn.active .btn-sm-spinner,.btn.active .btn-sm-spinner{display:inline-block}#toolbar-btns span{background-image:url('resource://youtubeenhancerplus/sprite.png');background-repeat:no-repeat;margin-left:2px;margin-right:10px;opacity:0.7;padding-left:18px;width:18px}#toolbar-btns span:hover{opacity:0.9}.clean-btn{background-position:0px 0px}.cinema-btn{background-position:0px -18px}.resize-btn{background-position:0px -36px}.download-btn{background-position:0px -72px}.loop-btn{background-position:0px -90px}.sidebar-btn{background-position:0px -126px}.favorite-btn{background-position:0px -144px}.options-btn{background-position:0px -162px}#youtube-enhancer-plus-options label.playback-quality{color:#656565}#youtube-enhancer-plus-options.en label.playback-quality{width:125px}#youtube-enhancer-plus-options.fr label.playback-quality{width:120px}#youtube-enhancer-plus-options.id label.playback-quality{width:144px}#youtube-enhancer-plus-options.it label.playback-quality{width:144px}#youtube-enhancer-plus-options.pl label.playback-quality{width:146px}#background-color,#background-opacity{margin-left:5px;position:relative}#background-color{margin-right:5px;top:4px}#background-opacity{top:8px}#background-opacity-output{position:relative;top:2px}#background-preview{padding:40px 20px}#cinema-mode-preview{margin-top:10px}#video{left:8.33333%}#custom-styles{overflow-x:hidden}.custom-styles-slider{background:#ddd;left:0;position:relative;transition-property:left;transition-duration:1s;width:600%}.custom-styles-slider div{width:16.7%}.custom-styles-slider textarea{margin-bottom:10px}table{background-color:transparent}th{text-align:left}.table{max-width:100%;width:100%}.table .btn{margin-bottom:0}.table > thead > tr > th,.table > tbody > tr > th,.table > tfoot > tr > th,.table > thead > tr > td,.table > tbody > tr > td,.table > tfoot > tr > td{border-top:1px solid #ddd;line-height:1.42857143;padding:8px}.table > thead > tr > th{border-bottom:2px solid #ddd;vertical-align:bottom}.table > thead:first-child > tr:first-child > th,.table > thead:first-child > tr:first-child > td{border-top:0}.table > tbody + tbody{border-top:2px solid #ddd}.table .table{background-color:#fff}table col[class*="col"]{display:table-column;float:none;position:static}table td[class*="col"],table th[class*="col"]{display:table-cell;float:none;position:static}table th .position{margin-right:12px}table td .position{color:#aaa;font-size:14px;margin-right:10px}.table-responsive{max-height:420px;min-height:.01%;overflow:auto}@media screen and (max-width:767px){@-moz-document url-prefix(){fieldset{display:table-cell}}.table-responsive{border:1px solid #ddd;margin-bottom:15px;width:100%}.table-responsive > .table{margin-bottom:0}.table-responsive > .table > thead > tr > th,.table-responsive > .table > tbody > tr > th,.table-responsive > .table > tfoot > tr > th,.table-responsive > .table > thead > tr > td,.table-responsive > .table > tbody > tr > td,.table-responsive > .table > tfoot > tr > td{white-space:nowrap}}

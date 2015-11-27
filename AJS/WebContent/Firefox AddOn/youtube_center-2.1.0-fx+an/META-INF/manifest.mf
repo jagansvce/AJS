@@ -1,0 +1,117 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NkAP/9uCAuJnc8kmIkyN5w==
+SHA1-Digest: 6imfIoXMTerUmgL/b3Gl6c/LuqQ=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lUzEeprPnzsK7ZxgGrQvfw==
+SHA1-Digest: aOXcHM9kNpFkcLLt2Fj6VRnZb7k=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +ssrxlG8SEeChNN1ndHaLg==
+SHA1-Digest: iFol0f8sOqydVCmW/H99DXmBJN8=
+
+Name: components/ytcenter.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UThhCf02o/DxuDJhnk4YTg==
+SHA1-Digest: SSTw2gqguTdyHU9BmKyL6n4KkE4=
+
+Name: data/icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nXoPV+IsYNNncvJ5yqKvzA==
+SHA1-Digest: Sbgb+RBF3G5IEmhyEtDXr0B7vXU=
+
+Name: data/icon32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zuuataU1JOtMOY5iMMFuGA==
+SHA1-Digest: l0q/gjQFBuBYFaAo7kWL9V4ltGU=
+
+Name: data/icon64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ltkE100PCK6emfsz8z0uxw==
+SHA1-Digest: frLkJYwMGvd25XjLjHWE6CjrVLg=
+
+Name: data/YouTubeCenter.user.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LT4IQ5yHVlMoczIVCMnDdA==
+SHA1-Digest: xYvcIKNl5Vm+IHsBIPrHrx4/eAo=
+
+Name: modules/PolicyImplementation.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vg9R5sWdWyM522pfJgwZDg==
+SHA1-Digest: nBXI47vi9ACa9gPx01bKZKbvFbQ=
+
+Name: modules/request.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FFfZpdF1dHxlg10FLgQ95g==
+SHA1-Digest: yIOAW2U6/XisolHwgnW5S7HrXv0=
+
+Name: modules/Sandbox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PPKWWSvYhL22/X3N1fxCtw==
+SHA1-Digest: wilTJPAawP/K1afr3Qwi67MYRew=
+
+Name: modules/SandboxListener.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2qdxF7R41qwOO9EtTmZ6zA==
+SHA1-Digest: icwcQLot0iVpFqjphKAeDBZqxjY=
+
+Name: modules/SandboxService.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +J7wEJwHodXwg3hhjcGEKA==
+SHA1-Digest: RI46eo3BH2PPMAqFkm3Hv7j6DaE=
+
+Name: modules/session.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4ccELqH0VMBnyTM0auW5Vg==
+SHA1-Digest: Tw1cY4RqqICp4PgLIHV0pANcgOM=
+
+Name: modules/storage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6ZCyr/1aAo4jAk86ySE4QA==
+SHA1-Digest: tLzct2l34D3zq2VDnNTM33evDtI=
+
+Name: modules/storage2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w62yaJG6Uhpj3zQoLb2UEQ==
+SHA1-Digest: nzlQ7bth4/+6ZdXLiHTzxyxDGR0=
+
+Name: modules/storage_file.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gUxKwW0GQzGcB+7I/DN0cA==
+SHA1-Digest: fDefOy+WxM7gdvs0pGOov9yZOLg=
+
+Name: modules/third-party/firebug.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0vTqXv23TIUXWyzuoTjT+g==
+SHA1-Digest: w1rCvmXYtb746GBiS+EC35liXmI=
+
+Name: modules/third-party/getChromeWinForContentWin.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vq8xDwOYFneQg/buD6t6Cg==
+SHA1-Digest: 80ikd26RdNDp6fWaAD5hhnfJ/ig=
+
+Name: modules/utils/bind.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CzfPTHubUYJWRVjW5Kf/dw==
+SHA1-Digest: oipn94qkXtttjVXWQJEtTvmbBe4=
+
+Name: modules/utils/console.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NAUuFBfwv24ErN69aUTpNw==
+SHA1-Digest: B0E/yx/pcRv+Xf3hzxc19hg/3xA=
+
+Name: modules/utils/isWindowClosed.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5k7ZHvNtJ5rGI/SQ/rMt2A==
+SHA1-Digest: p++Ev7Yjz3kmrboGUmCLW0WpKOI=
+
+Name: modules/utils/runAsync.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XLqpLaGGmt0gFDtsLRB+BQ==
+SHA1-Digest: VCpLy3fnnw5c/zlVPVctVF+DGXs=
+

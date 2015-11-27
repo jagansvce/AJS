@@ -1,0 +1,12 @@
+{
+  "title": "Auto Form Filler By Fire360Boy",
+  "name": "auto_form_filler_by_fire360boy",
+  "version": "1.2.3",
+  "description": "This Extention For Fill All HTML Form & Input's For Web Dewelopers and Programmers Author : Fire360Boy",
+  "main": "index.js",
+  "author": "Fire360Boy | Always & Everywhere | Fire360Boy@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "LGPL-3.0"
+}

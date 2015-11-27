@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AANIoDK49/f8RZFfRK4AVQ==
+SHA1-Digest: xGh+imRRwv/YU7iozF92x5qx4h8=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7bXGjs354WXP08z1LJmaUQ==
+SHA1-Digest: hBvzrYsRacNpTOCOH+GOhYBn2mE=
+
+Name: index.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KlyKBqRCvm54lnRtiNw4Wg==
+SHA1-Digest: PbszW2quQcIf3StQcgeP0x4+ddw=
+
+Name: package.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oJAA1JuaYxdWItspcbBiyw==
+SHA1-Digest: SfPDk7fUbVI8EAwYpbABIfxIi9M=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2dNxkkfGyxR4MkNfrNumQg==
+SHA1-Digest: HxYF5Jy8s6eCb2fYgz9l12c1jzA=
+
+Name: data/16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ljbXKFQIgcuRUUl3qG2gGw==
+SHA1-Digest: eMVwYfE/5BbdtPkQ/2fHr8ldjdQ=
+
+Name: data/32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5BpuzkC3fsEAH3KQCSCGug==
+SHA1-Digest: tlI5L5FVofvxeQy0MfaV0ujdwFI=
+
+Name: data/64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vrCUy9SYPFzDtK4jLe6Mwg==
+SHA1-Digest: eHqpd3ujCEEMCX1hzkwm+LJcG4g=
+
+Name: data/filler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GJSxxf0ec1FAD4m2OXJCZg==
+SHA1-Digest: I2wEvqT4OVAMUNVwGVq/cS7Vaiw=
+
